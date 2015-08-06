@@ -1,0 +1,25 @@
+{
+  "name": "tape-sequelize",
+  "version": "1.0.0",
+  "description": "A microlibrary that generates prop and type assertions in Tape for Sequelize models",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicekamada/tape-sequelize.git"
+  },
+  "keywords": [
+    "tape",
+    "sequelize",
+    "testing",
+    "models"
+  ],
+  "author": "Cassandra Cruz <celkamada@gmail.com> (http://alicekamada.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicekamada/tape-sequelize/issues"
+  },
+  "homepage": "https://github.com/alicekamada/tape-sequelize"
+}
