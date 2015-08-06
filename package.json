@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/alicekamada/tape-sequelize",
   "dependencies": {
-    "ramda": "^0.17.1",
-    "tape": "^4.0.2"
+    "ramda": "^0.17.1"
   }
 }
