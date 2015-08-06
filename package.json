@@ -1,6 +1,6 @@
 {
   "name": "tape-sequelize",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A microlibrary that generates prop and type assertions in Tape for Sequelize models",
   "main": "index.js",
   "scripts": {
